@@ -4,7 +4,7 @@ const Footer = () => {
             <div className="max-w-[1050px] mx-auto p-10">
                 <img src = "./footerlogo.png" alt = "logo"/>
                 <p className="my-3">All Rights are Reserved. {new Date().getFullYear()}</p>
-                <p>Made with ❤️️ by DANSU⚡</p>
+                <p>Made with ❤️️ by DANSU⚡ and DHARUN👨‍💻</p>
             </div>
         </footer>
      );
